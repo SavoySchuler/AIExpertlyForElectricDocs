@@ -14,9 +14,9 @@ This schedule documents initial founder roles, responsibilities, time commitment
 
 | Founder | Initial Officer Role | Primary Domain | Initial Scope |
 |---|---|---|---|
-| Savoy Schuler | CEO | Business execution | Strategy, go-to-market, partnerships, finance planning, customer development, operating cadence |
+| Teemu Karvonen | CEO | Business execution | Strategy, go-to-market, partnerships, finance planning, customer development, operating cadence |
 | Jonathan Cain | CTO | Technical execution | Engineering, architecture, infrastructure, security implementation, AI systems, technical quality |
-| Teemu Karvonen | TBD | TBD | TBD before execution |
+| Savoy Schuler | CPO | Product Execution | Own product vision, roadmap, requirements, and customer value |
 
 ## 3. CEO Expectations
 
