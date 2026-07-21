@@ -87,7 +87,7 @@ TBD
 | Leadership | TBD | TBD | TBD |
 | Reliability | TBD | TBD | TBD |
 
-### Feedback for Ryan Dixon
+### Feedback for Teemu Karvonen
 
 | Area | Observation | Example | Requested Change or Support |
 |---|---|---|---|
@@ -103,7 +103,7 @@ TBD
 |---|---|---|---|---|
 | Savoy Schuler | TBD | TBD | TBD | TBD |
 | Jonathan Cain | TBD | TBD | TBD | TBD |
-| Ryan Dixon | TBD | TBD | TBD | TBD |
+| Teemu Karvonen | TBD | TBD | TBD | TBD |
 
 ## 6. Responsibility Updates
 
@@ -117,7 +117,7 @@ TBD
 |---|---|---|---|---|
 | Savoy Schuler | TBD | TBD | TBD | TBD |
 | Jonathan Cain | TBD | TBD | TBD | TBD |
-| Ryan Dixon | TBD | TBD | TBD | TBD |
+| Teemu Karvonen | TBD | TBD | TBD | TBD |
 
 ## 8. Support Plan
 
@@ -139,7 +139,7 @@ Use this section only for specific, material concerns tied to the Founder Roles 
 |---|---:|---:|---|---|
 | Savoy Schuler | TBD | TBD | TBD | TBD |
 | Jonathan Cain | TBD | TBD | TBD | TBD |
-| Ryan Dixon | TBD | TBD | TBD | TBD |
+| Teemu Karvonen | TBD | TBD | TBD | TBD |
 
 ## 11. Founder Roles Schedule Update
 
@@ -162,4 +162,4 @@ TBD
 |---|---|---|---|
 | Savoy Schuler | TBD | TBD | TBD |
 | Jonathan Cain | TBD | TBD | TBD |
-| Ryan Dixon | TBD | TBD | TBD |
+| Teemu Karvonen | TBD | TBD | TBD |

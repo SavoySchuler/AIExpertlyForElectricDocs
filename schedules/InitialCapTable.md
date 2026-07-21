@@ -18,7 +18,7 @@ Authorized Units do not themselves create ownership. Ownership exists only when 
 |---|---:|---:|---:|---|
 | Savoy Schuler | 33,333,334 | 33.333334% | 33.333334% | Subject to reverse vesting |
 | Jonathan Cain | 33,333,333 | 33.333333% | 33.333333% | Subject to reverse vesting |
-| Ryan Dixon | 33,333,333 | 33.333333% | 33.333333% | Subject to reverse vesting |
+| Teemu Karvonen | 33,333,333 | 33.333333% | 33.333333% | Subject to reverse vesting |
 | Unissued Company Reserve | 0 | 0% | 0% | N/A |
 
 ## 3. Founder Equality Principle
@@ -51,7 +51,7 @@ The Company should maintain:
 
 | Date | Action | Units Issued/Transferred | Resulting Ownership | Approval Record |
 |---|---|---:|---|---|
-| Formation | Initial founder issuance | 100,000,000 | Savoy Schuler 33.333334%; Jonathan Cain 33.333333%; Ryan Dixon 33.333333% | Operating Agreement v0.2 |
+| Formation | Initial founder issuance | 100,000,000 | Savoy Schuler 33.333334%; Jonathan Cain 33.333333%; Teemu Karvonen 33.333333% | Operating Agreement v0.2 |
 
 ## 8. Future Issuance Checklist
 

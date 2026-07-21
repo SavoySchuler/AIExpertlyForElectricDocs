@@ -83,7 +83,7 @@ TBD
 |---|---|---:|---:|---|
 | Savoy Schuler | TBD | TBD | TBD | TBD |
 | Jonathan Cain | TBD | TBD | TBD | TBD |
-| Ryan Dixon | TBD | TBD | TBD | TBD |
+| Teemu Karvonen | TBD | TBD | TBD | TBD |
 
 ## 10. Distribution and Tax Plan
 
@@ -144,7 +144,7 @@ TBD
 |---|---|---|---|
 | Savoy Schuler | TBD | TBD | TBD |
 | Jonathan Cain | TBD | TBD | TBD |
-| Ryan Dixon | TBD | TBD | TBD |
+| Teemu Karvonen | TBD | TBD | TBD |
 
 ## 14. Decision Journal Link
 

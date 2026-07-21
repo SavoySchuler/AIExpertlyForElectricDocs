@@ -18,7 +18,7 @@ The vesting commencement date is the Company's formation date unless the Members
 |---|---|---|
 | Savoy Schuler | TBD | Complete before execution |
 | Jonathan Cain | TBD | Complete before execution |
-| Ryan Dixon | TBD | Complete before execution |
+| Teemu Karvonen | TBD | Complete before execution |
 
 ## 3. Vesting Schedule
 
@@ -31,7 +31,7 @@ Each founder's initial Membership Units vest over **48 months** with a **12-mont
 
 ## 4. Example Vesting Table
 
-Assuming Savoy Schuler initially receives 33,333,334 Membership Units and Jonathan Cain and Ryan Dixon each initially receive 33,333,333 Membership Units:
+Assuming Savoy Schuler initially receives 33,333,334 Membership Units and Jonathan Cain and Teemu Karvonen each initially receive 33,333,333 Membership Units:
 
 | Founder | Departure Date | Percentage of Founder Grant Vested | Founder Units Kept | Company Repurchase Right |
 |---|---|---:|---:|---:|
@@ -39,10 +39,10 @@ Assuming Savoy Schuler initially receives 33,333,334 Membership Units and Jonath
 | Savoy Schuler | 12 months | 25% | 8,333,333.5 | 25,000,000.5 |
 | Savoy Schuler | 24 months | 50% | 16,666,667 | 16,666,667 |
 | Savoy Schuler | 48 months | 100% | 33,333,334 | 0 |
-| Jonathan Cain / Ryan Dixon | 6 months | 0% | 0 | 33,333,333 |
-| Jonathan Cain / Ryan Dixon | 12 months | 25% | 8,333,333.25 | 24,999,999.75 |
-| Jonathan Cain / Ryan Dixon | 24 months | 50% | 16,666,666.5 | 16,666,666.5 |
-| Jonathan Cain / Ryan Dixon | 48 months | 100% | 33,333,333 | 0 |
+| Jonathan Cain / Teemu Karvonen | 6 months | 0% | 0 | 33,333,333 |
+| Jonathan Cain / Teemu Karvonen | 12 months | 25% | 8,333,333.25 | 24,999,999.75 |
+| Jonathan Cain / Teemu Karvonen | 24 months | 50% | 16,666,666.5 | 16,666,666.5 |
+| Jonathan Cain / Teemu Karvonen | 48 months | 100% | 33,333,333 | 0 |
 
 ## 5. Repurchase Price for Unvested Units
 

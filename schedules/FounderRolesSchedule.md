@@ -16,7 +16,7 @@ This schedule documents initial founder roles, responsibilities, time commitment
 |---|---|---|---|
 | Savoy Schuler | CEO | Business execution | Strategy, go-to-market, partnerships, finance planning, customer development, operating cadence |
 | Jonathan Cain | CTO | Technical execution | Engineering, architecture, infrastructure, security implementation, AI systems, technical quality |
-| Ryan Dixon | TBD | TBD | TBD before execution |
+| Teemu Karvonen | TBD | TBD | TBD before execution |
 
 ## 3. CEO Expectations
 
@@ -46,7 +46,7 @@ The CTO is expected to own technical architecture and engineering execution; mai
 | IP Protection | Source code, technical documentation, secrets | TBD |
 | Product | Technical feasibility and roadmap input | Coordinate with CEO/CPO |
 
-## 7. Ryan Dixon Current Responsibilities
+## 7. Teemu Karvonen Current Responsibilities
 
 | Area | Responsibility | Notes |
 |---|---|---|
@@ -72,7 +72,7 @@ The CTO is expected to own technical architecture and engineering execution; mai
 |---|---|---|
 | Savoy Schuler | TBD | To be agreed before execution |
 | Jonathan Cain | TBD | To be agreed before execution |
-| Ryan Dixon | TBD | To be agreed before execution |
+| Teemu Karvonen | TBD | To be agreed before execution |
 
 ## 10. Availability and Leave
 

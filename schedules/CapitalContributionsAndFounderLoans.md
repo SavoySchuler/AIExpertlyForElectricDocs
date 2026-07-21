@@ -14,7 +14,7 @@ This schedule records initial capital contributions, later founder contributions
 |---|---:|---|---:|---|
 | Savoy Schuler | TBD | TBD | TBD | To be completed |
 | Jonathan Cain | TBD | TBD | TBD | To be completed |
-| Ryan Dixon | TBD | TBD | TBD | To be completed |
+| Teemu Karvonen | TBD | TBD | TBD | To be completed |
 
 ## 3. No Mandatory Capital Calls
 

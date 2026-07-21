@@ -22,9 +22,9 @@ Anything not listed here and created for, used by, or contributed to the Company
 |---|---|---|---|---|---|
 | TBD | TBD | TBD | Jonathan Cain | TBD | TBD |
 
-## 4. Ryan Dixon Pre-Existing IP
+## 4. Teemu Karvonen Pre-Existing IP
 
-This Article identifies intellectual property, business assets, and operating activities owned or controlled by Ryan Dixon ("Founder") or by Frontline Ready LLC, a Washington limited liability company of which Founder is a member and/or owner ("Frontline"), as of the Effective Date of the AIExpertly LLC Operating Agreement (the "OA").
+This Article identifies intellectual property, business assets, and operating activities owned or controlled by Teemu Karvonen ("Founder") or by Frontline Ready LLC, a Washington limited liability company of which Founder is a member and/or owner ("Frontline"), as of the Effective Date of the AIExpertly LLC Operating Agreement (the "OA").
 
 All items listed in this Schedule, and all items owned by Frontline as of the Effective Date or hereafter acquired or developed by Frontline independently of the Company, are Excluded Assets. Excluded Assets are not assigned, licensed, contributed, or otherwise transferred to AIExpertly LLC (the "Company") under §10.1, §10.3, or any other provision of the OA, and are not subject to any present or future assignment, license-back, or "shop right" in favor of the Company unless separately agreed in a signed writing.
 
@@ -99,7 +99,7 @@ The descriptions in this Schedule are intended to be broad and category-based ra
 Founder Signature:
 
 
-Ryan Dixon
+Teemu Karvonen
 Signature: _______________
 Date: _______________
 Acknowledged by AIExpertly LLC and Each Other Founder:

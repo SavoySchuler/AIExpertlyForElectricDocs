@@ -23,7 +23,7 @@ SOURCE_FOUNDER_A = "Founder A"
 SOURCE_FOUNDER_B = "Founder B"
 FOUNDER_A = "Savoy Schuler"
 FOUNDER_B = "Jonathan Cain"
-FOUNDER_C = "Ryan Dixon"
+FOUNDER_C = "Teemu Karvonen"
 
 EXCLUDED_DIRS = {".git", ".github"}
 SELF_KEEP = {
@@ -155,7 +155,7 @@ def transform_text(text: str, rel: Path) -> str:
     text = text.replace("37,500,000", "25,000,000")
     text = text.replace("100,000,000", "99,999,999")
 
-    # Add Ryan Dixon where files have founder tables/lists but source only had two rows.
+    # Add Teemu Karvonen where files have founder tables/lists but source only had two rows.
     lines = text.splitlines()
     out: list[str] = []
     for line in lines:
@@ -173,7 +173,7 @@ def transform_text(text: str, rel: Path) -> str:
     if rel.name == "README.md":
         text = text.replace(
             "The Company begins with three founders, each holding 33.3333% of the initial Membership Units.",
-            "The Company begins with three founders: Savoy Schuler, Jonathan Cain, and Ryan Dixon, each holding 33.3333% of the initial Membership Units.",
+            "The Company begins with three founders: Savoy Schuler, Jonathan Cain, and Teemu Karvonen, each holding 33.3333% of the initial Membership Units.",
         )
 
     return text
