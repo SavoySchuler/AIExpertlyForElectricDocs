@@ -1,4 +1,4 @@
-# Schedule — Officer Roles, Authority, and Successors
+# Schedule G — Officer Roles, Authority, and Successors
 
 Version: v0.2 draft  
 Status: Founder review draft
