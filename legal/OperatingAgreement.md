@@ -56,15 +56,7 @@ The Company is organized as a limited liability company under the laws of the St
 
 ### 2.2 Business Purpose
 
-The Company may engage in any lawful business activity for which a Washington limited liability company may be organized. The Members expect the Company's products, services, technologies, markets, and business model may evolve over time without requiring amendment solely because the business focus changes. The AIExpertly Business does not include, and the Company shall not engage in, any of the following activities, each of which is expressly outside the scope of the Company's business:
-
-1. The import, export, purchase, sale, wholesale, retail, consignment, brokerage, or transportation of motor vehicles;
-2. The operation of a vehicle dealership, wholesale lot, auction, or brokerage;
-3. The holding of motor-vehicle inventory as a principal;
-4. The registration, titling, compliance filing, or recall remediation of motor vehicles on behalf of the Company's own inventory;
-5. The operation of any business that competes with Frontline Ready LLC, a Washington limited liability company ("Frontline") in its capacity as a vehicle import, wholesale, or dealer-services business.
-   
-The Company may license its software and services to any vehicle-industry business, including Frontline, on arm's-length commercial terms. Such licensing is the AIExpertly Business; the operation of the licensee's underlying vehicle business is not.
+The Company may engage in any lawful business activity for which a Washington limited liability company may be organized. The Members expect the Company's products, services, technologies, markets, and business model may evolve over time without requiring amendment solely because the business focus changes.
 
 ### 2.3 Principal Office and Registered Agent
 
