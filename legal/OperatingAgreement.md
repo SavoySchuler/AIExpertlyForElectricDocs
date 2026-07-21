@@ -1,4 +1,4 @@
-# Operating Agreement of AI Expertly Vehicle Imports LLC
+# Operating Agreement of AI Expertly for Electric LLC
 
 Version: v0.2 founder review draft  
 Status: Attorney-review draft; not for signature without Washington counsel review  
