@@ -24,7 +24,7 @@ The core legal agreement should remain stable. Operational details should evolve
 
 ## 3. Governance Principles
 
-AI Expertly for Electric' governance system is designed around these principles:
+AI Expertly for Electric's governance system is designed around these principles:
 
 - Ownership is equal at formation, but operational accountability is role-based.
 - The CEO is accountable for company execution.
