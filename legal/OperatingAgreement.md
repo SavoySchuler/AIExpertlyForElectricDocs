@@ -1,4 +1,4 @@
-# Operating Agreement of AI Expertly Vehicle Imports LLC
+# Operating Agreement of AI Expertly for Electric LLC
 
 Version: v0.2 founder review draft  
 Status: Attorney-review draft; not for signature without Washington counsel review  
@@ -17,7 +17,7 @@ Canonical source: Markdown
 
 ### 1.1 Purpose
 
-This Operating Agreement establishes the ownership, governance, management, economic, intellectual property, dispute resolution, and operational framework of AI Expertly Vehicle Imports LLC (the **Company**). The Members adopt this Agreement to create a durable founder-led company capable of surviving growth, leadership change, Member departure, future financing, strategic pivots, acquisition, conversion, and dissolution.
+This Operating Agreement establishes the ownership, governance, management, economic, intellectual property, dispute resolution, and operational framework of AI Expertly for Electric LLC (the **Company**). The Members adopt this Agreement to create a durable founder-led company capable of surviving growth, leadership change, Member departure, future financing, strategic pivots, acquisition, conversion, and dissolution.
 
 ### 1.2 Guiding Principles
 

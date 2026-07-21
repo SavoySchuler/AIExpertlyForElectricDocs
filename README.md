@@ -1,10 +1,10 @@
-# AI Expertly Vehicle Imports Governance System
+# AI Expertly for Electric Governance System
 
 Version: v0.2 draft  
 Status: Founder review draft  
 Canonical format: Markdown
 
-This repository contains the AI Expertly Vehicle Imports Governance System. The package is designed around a Washington LLC with three equal founders, equal voting power, ownership-based economics, reverse vesting, protected approval for major decisions, domain-driven executive authority, AI-specific governance, and practical playbooks for operating the company.
+This repository contains the AI Expertly for Electric Governance System. The package is designed around a Washington LLC with three equal founders, equal voting power, ownership-based economics, reverse vesting, protected approval for major decisions, domain-driven executive authority, AI-specific governance, and practical playbooks for operating the company.
 
 > These are business and governance drafts for founder discussion. They should be reviewed by a Washington business attorney before execution or reliance as legal documents.
 
@@ -39,7 +39,7 @@ This repository contains the AI Expertly Vehicle Imports Governance System. The 
 
 ## Drafting assumptions
 
-- AI Expertly Vehicle Imports is organized initially as a Washington LLC.
+- AI Expertly for Electric is organized initially as a Washington LLC.
 - The Company begins with three founders, each holding one-third of the initial Membership Units.
 - Founder Units are issued immediately but subject to reverse vesting over four years with a one-year cliff.
 - Ownership governs economics and voting rights; compensation governs current labor contribution.

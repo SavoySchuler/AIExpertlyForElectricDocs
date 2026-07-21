@@ -1,4 +1,4 @@
-# AI Expertly Vehicle Imports Founders Charter
+# AI Expertly for Electric Founders Charter
 
 Version: v0.2 draft  
 Status: Founder review draft
@@ -7,13 +7,13 @@ Status: Founder review draft
 
 ## 1. Purpose
 
-The Founders Charter is the cultural and strategic constitution of AI Expertly Vehicle Imports. It explains how the founders intend to build, govern, disagree, decide, repair, and evolve the Company.
+The Founders Charter is the cultural and strategic constitution of AI Expertly for Electric. It explains how the founders intend to build, govern, disagree, decide, repair, and evolve the Company.
 
 The Operating Agreement defines enforceable rights. This Charter defines the partnership norms that help those rights work in practice.
 
 ## 2. Founding Intent
 
-AI Expertly Vehicle Imports exists to build durable AI-enabled products and services that create meaningful value for customers, employees, founders, and future stakeholders. The founders intend to build a company that can grow beyond its original products and beyond the direct daily involvement of the original founders.
+AI Expertly for Electric exists to build durable AI-enabled products and services that create meaningful value for customers, employees, founders, and future stakeholders. The founders intend to build a company that can grow beyond its original products and beyond the direct daily involvement of the original founders.
 
 The Company should be designed to survive success: growth, profit, hiring, fundraising, burnout, leadership changes, acquisition offers, and strategic pivots.
 
@@ -51,7 +51,7 @@ Founders should:
 
 ## 5. Decision Philosophy
 
-AI Expertly Vehicle Imports should not require founder votes for ordinary execution. Authority should follow expertise, while accountability follows governance.
+AI Expertly for Electric should not require founder votes for ordinary execution. Authority should follow expertise, while accountability follows governance.
 
 - The CEO owns business execution and enterprise value.
 - The CTO owns technical architecture and engineering execution.
@@ -119,7 +119,7 @@ If one founder contributes more time, takes on more operational burden, or assum
 
 ## 11. AI Principles
 
-AI Expertly Vehicle Imports should treat AI capability, customer trust, data rights, and model provenance as core assets.
+AI Expertly for Electric should treat AI capability, customer trust, data rights, and model provenance as core assets.
 
 The Company should:
 

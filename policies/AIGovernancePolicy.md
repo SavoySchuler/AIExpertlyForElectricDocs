@@ -1,13 +1,13 @@
-# AI Expertly Vehicle Imports AI Governance Policy
+# AI Expertly for Electric AI Governance Policy
 
 Version: v0.2 draft  
 Status: Founder review draft
 
-> This policy governs AI systems, AI vendors, model usage, customer data, prompt libraries, training data, evaluation, provenance, and responsible AI practices at AI Expertly Vehicle Imports.
+> This policy governs AI systems, AI vendors, model usage, customer data, prompt libraries, training data, evaluation, provenance, and responsible AI practices at AI Expertly for Electric.
 
 ## 1. Purpose
 
-This policy establishes how AI Expertly Vehicle Imports governs AI systems and AI assets. It is designed to protect customers, preserve Company IP, maintain technical flexibility, support enterprise diligence, and prevent routine engineering choices from becoming unnecessary governance votes.
+This policy establishes how AI Expertly for Electric governs AI systems and AI assets. It is designed to protect customers, preserve Company IP, maintain technical flexibility, support enterprise diligence, and prevent routine engineering choices from becoming unnecessary governance votes.
 
 ## 2. Policy Principles
 
@@ -81,7 +81,7 @@ The Company shall maintain an AI Assets Register covering material:
 
 ## 6. Customer Data
 
-Customer data belongs to the customer or is governed by customer contracts. AI Expertly Vehicle Imports may use customer data only as permitted by contract, law, and Company policy.
+Customer data belongs to the customer or is governed by customer contracts. AI Expertly for Electric may use customer data only as permitted by contract, law, and Company policy.
 
 Unless expressly permitted, customer data may not be used to:
 

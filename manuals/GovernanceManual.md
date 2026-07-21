@@ -1,4 +1,4 @@
-# AI Expertly Vehicle Imports Governance Manual
+# AI Expertly for Electric Governance Manual
 
 Version: v0.2 draft  
 Status: Founder review draft
@@ -7,13 +7,13 @@ Status: Founder review draft
 
 ## 1. Purpose
 
-The Governance Manual explains how AI Expertly Vehicle Imports operates the framework established in the Operating Agreement. It is intended to make governance practical, repeatable, and easy for founders, officers, and future executives to use.
+The Governance Manual explains how AI Expertly for Electric operates the framework established in the Operating Agreement. It is intended to make governance practical, repeatable, and easy for founders, officers, and future executives to use.
 
 The goal is to prevent avoidable ambiguity. The legal agreement defines authority. This manual explains how to use that authority without slowing the business down.
 
 ## 2. Governance Architecture
 
-AI Expertly Vehicle Imports uses four layers of governance:
+AI Expertly for Electric uses four layers of governance:
 
 1. **Operating Agreement** — binding legal foundation.
 2. **Governance Matrix** — approval thresholds and decision rights.
@@ -24,7 +24,7 @@ The core legal agreement should remain stable. Operational details should evolve
 
 ## 3. Governance Principles
 
-AI Expertly Vehicle Imports' governance system is designed around these principles:
+AI Expertly for Electric' governance system is designed around these principles:
 
 - Ownership is equal at formation, but operational accountability is role-based.
 - The CEO is accountable for company execution.
